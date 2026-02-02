@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoBox", "CryptoBox\CryptoBox.csproj", "{8FFE07D6-812E-41CE-88DA-984925F8ADBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FFE07D6-812E-41CE-88DA-984925F8ADBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FFE07D6-812E-41CE-88DA-984925F8ADBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FFE07D6-812E-41CE-88DA-984925F8ADBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FFE07D6-812E-41CE-88DA-984925F8ADBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EE268AB-8038-4AF2-A3C8-E344D62275C6}
+	EndGlobalSection
+EndGlobal
